@@ -1,5 +1,4 @@
 import { Mail, Github, Instagram } from "lucide-react"
-import Image from "next/image"
 
 
 const Contact = () => {
